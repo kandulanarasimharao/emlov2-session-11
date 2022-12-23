@@ -1,3 +1,15 @@
+{'data': {'is_drift': 1,
+  'distance': nan,
+  'p_val': 0.0,
+  'threshold': 0.05,
+  'distance_threshold': array(nan, dtype=float32)},
+ 'meta': {'name': 'MMDDriftTorch',
+  'online': False,
+  'data_type': None,
+  'version': '0.10.4',
+  'detector_type': 'drift',
+  'backend': 'pytorch'}}
+  
 Images while training
 
 ![image](https://user-images.githubusercontent.com/16095633/209288244-5d8773f1-43c7-4681-8a03-aa8843fc5fea.png)
